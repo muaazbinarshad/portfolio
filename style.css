@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #40514e;
+}
+span{
+    text-decoration: underline;
+}
+.top-container{
+    padding-top: 100px;
+    background-color: #EAF6F6;
+    position: relative;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+p{
+    line-height: 2;
+}
+h1{
+    margin: 50 auto 0 auto;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    color: #11999E;
+}
