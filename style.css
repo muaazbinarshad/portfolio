@@ -79,3 +79,13 @@ h3{
 .middle-container{
     padding-bottom: 20px;
 }
+hr{
+    width: 5%;
+    height: 0;
+    margin-top: dotted;
+    margin: 100px auto;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    color:#EAF6F6;
+}
